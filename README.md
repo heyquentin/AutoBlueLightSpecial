@@ -1,4 +1,5 @@
 ########################### Auto Blue Light Special ###########################
+
 It's called Auto Blue Light Special because it's just a modification of AutoBlue and because of a conversation my friend Julien and I were having about the old school K-Mart blue light specials
 
 This is a modification of 3ndG4me's AutoBlue found here: https://github.com/3ndG4me/AutoBlue-MS17-010
@@ -24,7 +25,8 @@ The password will be: haxxx
 You may view a demo video here: https://youtu.be/HOvV0utZK_w
 
 ########################### Auto Blue Light Special ###########################
-####### Everything below this line is from the original AutoBlue README #######
+####### 
+Everything below this line is from the original AutoBlue README #######
 
 # MS17-010 Exploit Code
 
